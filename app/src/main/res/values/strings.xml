@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DZone</string>
+    <string name="scanner_error">Scanner error: %s</string>
+    <string name="reload">reload</string>
+    <string name="refresh">refresh</string>
+
+</resources>
